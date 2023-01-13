@@ -66,3 +66,5 @@ This is the exciting part because we get to see how annual income influences spe
 3. People with $40-70 annual income have 40-60 spending score
 4. People with $70-140 annual income have 0-40 spending score
 5. People with $70-140 annual income have 60-100 spending score
+
+After this, we will move on to the clustering with K-Means to understand the customers better.
