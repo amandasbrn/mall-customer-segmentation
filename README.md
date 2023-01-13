@@ -42,21 +42,7 @@ People who are around 30 - 40 years old have the highest annual income, which ma
 People who are around 20 - 40 years old have the highest spending score compared to people above 40 years old.
 
 
-**7) Correlation between age and annual income**
-
-<img align="center" width="660" height="370" src="https://user-images.githubusercontent.com/66349501/212292630-243d7ffe-636f-4694-96d2-e02a903f8e6c.png">
-
-The plot makes sense because the annual income increases from age 20 to 40. However, it starts to incline when they reach above 40 years old. The higher the number, the annual income decreases. This scatter plot has the same pattern as the distribution plot.
-
-
-**8) Correlation between age and spending score**
-
-<img align="center" width="660" height="370" src="https://user-images.githubusercontent.com/66349501/212293534-1f787bd6-5b00-4680-bd56-05a812317276.png">
-
-In this scatter plot, we can see that they are clearly separated. People in their 20s and 30s have the highest spending score, and the spending score decreases for people who are 40 and above.
-
-
-**9) Correlation between annual income and spending score**
+**7) Correlation between annual income and spending score**
 
 <img align="center" width="660" height="370" src="https://user-images.githubusercontent.com/66349501/212294411-c7ec2aed-23cb-4686-8baf-f793bccc4584.png">
 
