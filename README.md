@@ -56,3 +56,13 @@ The plot makes sense because the annual income increases from age 20 to 40. Howe
 In this scatter plot, we can see that they are clearly separated. People in their 20s and 30s have the highest spending score, and the spending score decreases for people who are 40 and above.
 
 
+**9) Correlation between annual income and spending score**
+
+<img align="center" width="660" height="370" src="https://user-images.githubusercontent.com/66349501/212294411-c7ec2aed-23cb-4686-8baf-f793bccc4584.png">
+
+This is the exciting part because we get to see how annual income influences spending score. In this plot, it is clear that the circles are forming bunch of clusters. The clusters are divided to these:
+1. People with $0-40 annual income have 0-40 spending score
+2. Pepole with $0-40 annual income have 60-100 spending score
+3. People with $40-70 annual income have 40-60 spending score
+4. People with $70-140 annual income have 0-40 spending score
+5. People with $70-140 annual income have 60-100 spending score
